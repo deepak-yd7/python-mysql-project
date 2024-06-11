@@ -11,10 +11,15 @@ messagebox from Tkinter: For displaying message boxes.
 Hospital: This class encapsulates the hospital management system's functionality.
 
 # GUI Layout
+
 # Frames:
+
 DataframeLeft: For patient and prescription details input.
+
 DataframeRight: For displaying prescription details.
+
 Buttonframe: For action buttons like Add, Update, Delete, etc.
+
 Detailframe: For displaying detailed information.
 
 # Widgets:
